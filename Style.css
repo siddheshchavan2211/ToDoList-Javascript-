@@ -1,0 +1,26 @@
+*{
+    background-color: aqua;
+}
+.todo-heading{
+    text-align: center;
+}
+.cont-todo{
+    display: grid;
+    grid-template-columns: 232px 155px 120px;
+    grid-row: 10px;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    padding-top: 10px;
+
+
+}
+.cont-todo2{
+    display: grid;
+    grid-template-columns: 232px 155px 120px;
+    grid-row: 10px;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    padding-top: 10px;
+}
